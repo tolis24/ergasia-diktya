@@ -36,6 +36,12 @@ PATH: /sbin
 PATH: /bin
 PATH: /usr/games
 PATH: /usr/local/games
+PATH: /home/user/Documents/ergasia-diktya/ns-allinone-2.35/xgraph-12.2/
+PATH: /home/user/Documents/ergasia-diktya/ns-allinone-2.35/bin/
+PATH: /home/user/Documents/ergasia-diktya/ns-allinone-2.35/tcl8.5.10/unix/
+PATH: /home/user/Documents/ergasia-diktya/ns-allinone-2.35/tk8.5.10/unix/
+PATH: /home/user/Documents/ergasia-diktya/ns-allinone-2.35/ns-2.35/
+PATH: /home/user/Documents/ergasia-diktya/ns-allinone-2.35/nam-1.15/
 
 
 ## ----------- ##

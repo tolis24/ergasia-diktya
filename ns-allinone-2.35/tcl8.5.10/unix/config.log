@@ -36,6 +36,12 @@ PATH: /sbin
 PATH: /bin
 PATH: /usr/games
 PATH: /usr/local/games
+PATH: /home/user/Documents/ergasia-diktya/ns-allinone-2.35/xgraph-12.2/
+PATH: /home/user/Documents/ergasia-diktya/ns-allinone-2.35/bin/
+PATH: /home/user/Documents/ergasia-diktya/ns-allinone-2.35/tcl8.5.10/unix/
+PATH: /home/user/Documents/ergasia-diktya/ns-allinone-2.35/tk8.5.10/unix/
+PATH: /home/user/Documents/ergasia-diktya/ns-allinone-2.35/ns-2.35/
+PATH: /home/user/Documents/ergasia-diktya/ns-allinone-2.35/nam-1.15/
 
 
 ## ----------- ##
@@ -279,7 +285,7 @@ configure:4353: gcc -o conftest  -pipe   conftest.c  >&5
 conftest.c:45:6: warning: conflicting types for built-in function 'sin' [enabled by default]
  char sin ();
       ^
-/tmp/ccOHS1aF.o: In function `main':
+/tmp/cck8SCYZ.o: In function `main':
 conftest.c:(.text+0x7): undefined reference to `sin'
 collect2: error: ld returned 1 exit status
 configure:4353: $? = 1
@@ -907,7 +913,7 @@ configure:7382: $? = 0
 configure:7382: result: yes
 configure:7391: checking for getwd
 configure:7391: gcc -o conftest  -pipe   -Wl,--export-dynamic  conftest.c  >&5
-/tmp/cc6t1Hyl.o: In function `main':
+/tmp/ccBOYRNj.o: In function `main':
 conftest.c:(.text+0x7): warning: the `getwd' function is dangerous and should not be used.
 configure:7391: $? = 0
 configure:7391: result: yes
@@ -2086,7 +2092,7 @@ configure:9297: $? = 0
 configure:9297: result: yes
 configure:9413: checking for BSDgettimeofday
 configure:9413: gcc -o conftest  -pipe   -Wl,--export-dynamic  conftest.c  >&5
-/tmp/ccbYGQ7Z.o: In function `main':
+/tmp/ccOimKmg.o: In function `main':
 conftest.c:(.text+0x7): undefined reference to `BSDgettimeofday'
 collect2: error: ld returned 1 exit status
 configure:9413: $? = 1
